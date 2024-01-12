@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 35c214aaad38ef345b0b58b16c07e751
+  productGUID: 52e61a76e0469ed47ab70a36b63efcdf
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -780,7 +780,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: DREAMTECK_SPLINES
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
